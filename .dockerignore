@@ -1,0 +1,8 @@
+docs
+.idea
+.gitignore
+.git
+.gitattributes
+Makefile
+*.md
+LICENSE

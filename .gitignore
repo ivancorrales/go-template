@@ -1,0 +1,7 @@
+.idea
+*.log
+coverage.txt
+build
+dist
+vendor
+temp
